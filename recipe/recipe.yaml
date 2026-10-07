@@ -1,5 +1,5 @@
 context:
-  version: "6.11.2"
+  version: "6.12.0"
 
 package:
   name: qt6-positioning
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/qt/qtpositioning/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 05ae0b5ea65df0bed1b9334f6aba74dbc876f6fdf20de312691325bafa8d61eb
+  sha256: c16ef21e589c02af7772095ee33b85dc768a0d37f017be28c4088070f5e505a6
 
 build:
   number: 0
